@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "350085453335",
+    "firebase_url": "https://fir-taskandroid1-default-rtdb.firebaseio.com",
+    "project_id": "fir-taskandroid1",
+    "storage_bucket": "fir-taskandroid1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350085453335:android:fe8cadf1f156843a3aae52",
+        "android_client_info": {
+          "package_name": "com.example.android_assignmenttwo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhthweEAvogHYSWtXu56WDlbwFg05ndnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350085453335:android:a6f63c69541053cb3aae52",
+        "android_client_info": {
+          "package_name": "com.example.firebasetask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhthweEAvogHYSWtXu56WDlbwFg05ndnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350085453335:android:c94c1320c4e58e2e3aae52",
+        "android_client_info": {
+          "package_name": "com.example.fragmentstask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhthweEAvogHYSWtXu56WDlbwFg05ndnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
